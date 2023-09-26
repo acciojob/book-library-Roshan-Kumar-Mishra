@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .book-library{
-	background-color: #f8f8f8;
+	background-color: #ffffff;
+	text-align: center;
 }
 .price{
 	background-color: #2ecc71;
@@ -15,7 +16,6 @@
 	background-color:rgb(255, 255, 255);
 }
 .body{
-	text-align: center;
-	font-weight: bold;
-	background-color: #ffffff;
+	
+	background-color: #f8f8f8 ;
 }
