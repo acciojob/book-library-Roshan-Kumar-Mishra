@@ -2,6 +2,7 @@
 .book-library{
 	background-color: #ffffff;
 	text-align: center;
+	background-color: #f8f8f8;
 }
 .price{
 	background-color: #2ecc71;
@@ -14,8 +15,5 @@
 .book{
 	padding: 10px 10px 10px 10px;
 	background-color:rgb(255, 255, 255);
-}
-.body{
-	
-	background-color: #f8f8f8 ;
+	background-color: #f8f8f8;
 }
